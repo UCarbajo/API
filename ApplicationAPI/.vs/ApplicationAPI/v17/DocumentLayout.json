@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DAW\\MiProyecto\\ApplicationAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|d:\\daw\\miproyecto\\applicationapi\\applicationapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|d:\\daw\\miproyecto\\applicationapi\\applicationapi\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|d:\\daw\\miproyecto\\applicationapi\\applicationapi\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|d:\\daw\\miproyecto\\applicationapi\\applicationapi\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|d:\\daw\\miproyecto\\applicationapi\\applicationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|d:\\daw\\miproyecto\\applicationapi\\applicationapi\\dao\\basedatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\dao\\basedatoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|d:\\daw\\miproyecto\\applicationapi\\applicationapi\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\DTO\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\DTO\\UsuarioDTO.cs",
+              "ToolTip": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\DTO\\UsuarioDTO.cs",
+              "RelativeToolTip": "ApplicationAPI\\DTO\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:01:38.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\Modelo\\Usuario.cs",
+              "ToolTip": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "ApplicationAPI\\Modelo\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:01:35.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\Program.cs",
+              "ToolTip": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\Program.cs",
+              "RelativeToolTip": "ApplicationAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:00:56.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\Controllers\\ProductoesController.cs",
+              "ToolTip": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "ApplicationAPI\\Controllers\\ProductoesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:24:45.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ApplicationAPI\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:21:23.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\DTO\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\DTO\\ProductoDTO.cs",
+              "ToolTip": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\DTO\\ProductoDTO.cs",
+              "RelativeToolTip": "ApplicationAPI\\DTO\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:17:36.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseDatosContext.cs",
+              "DocumentMoniker": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\DAO\\BaseDatosContext.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\DAO\\BaseDatosContext.cs",
+              "ToolTip": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\DAO\\BaseDatosContext.cs",
+              "RelativeToolTip": "ApplicationAPI\\DAO\\BaseDatosContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:55:30.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
