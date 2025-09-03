@@ -10,6 +10,7 @@ using ApplicationAPI.DAO;
 using ApplicationAPI.Modelo;
 using ApplicationAPI.DTO;
 using ApplicationAPI.Profiles;
+using AutoMapper.QueryableExtensions;
 
 namespace ApplicationAPI.Controllers
 {
@@ -35,15 +36,18 @@ namespace ApplicationAPI.Controllers
 
         // GET: api/Productoes/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Producto>> GetProducto(int id)
+        public async Task<ActionResult<ProductoDTO>> GetProducto(int id)
         {
-            var producto = await _context.ProductoContext.FindAsync(id);
+            var producto = await _context.ProductoContext
+                .Where(p => p.Id == id)
+                .ProjectTo<ProductoDTO>(_mapper.ConfigurationProvider)
+                .FirstOrDefaultAsync();
 
             if (producto == null)
             {
                 return NotFound();
             }
-
+           
             return producto;
         }
 
@@ -83,13 +87,15 @@ namespace ApplicationAPI.Controllers
         // POST: api/Productoes
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Producto>> PostProducto(ProductoDTO productoDto)
+        public async Task<ActionResult<Producto>> PostProducto([FromBody] ProductoDTO productoDto)
         {
-            var producto = _mapper.Map<Producto>(productoDto);
-            _context.ProductoContext.Add(producto);
-            await _context.SaveChangesAsync();
+            {
+                var producto = _mapper.Map<Producto>(productoDto);
+                _context.ProductoContext.Add(producto);
+                await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetProducto", new { id = producto.Id }, productoDto);
+                return CreatedAtAction("GetProducto", new { id = producto.Id }, productoDto);
+            }
         }
 
         // DELETE: api/Productoes/5

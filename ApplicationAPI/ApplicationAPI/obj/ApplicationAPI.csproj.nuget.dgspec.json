@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\ApplicationAPI.csproj": {}
+    "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\ApplicationAPI.csproj": {}
   },
   "projects": {
-    "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\ApplicationAPI.csproj": {
+    "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\ApplicationAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\ApplicationAPI.csproj",
+        "projectUniqueName": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\ApplicationAPI.csproj",
         "projectName": "ApplicationAPI",
-        "projectPath": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\ApplicationAPI.csproj",
-        "packagesPath": "C:\\Users\\unai-\\.nuget\\packages\\",
-        "outputPath": "D:\\DAW\\MiProyecto\\ApplicationAPI\\ApplicationAPI\\obj\\",
+        "projectPath": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\ApplicationAPI.csproj",
+        "packagesPath": "C:\\Users\\u.carbajo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\unai-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\u.carbajo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,11 +53,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[15.0.1, )"
-            },
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
+              "version": "[14.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -66,6 +62,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[9.0.8, )"
             },
@@ -107,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -12,7 +12,7 @@ namespace ApplicationAPI.Profiles
             CreateMap<UsuarioDTO, Usuario>();
 
             CreateMap<Producto, ProductoDTO>();
-            CreateMap<ProductoDTO, ProductoDTO>();
+            CreateMap<ProductoDTO, Producto>();
 
         }
     }
