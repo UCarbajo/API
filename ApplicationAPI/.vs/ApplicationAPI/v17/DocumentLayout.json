@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|c:\\users\\u.carbajo\\vscode\\proyectos\\02_miapi\\applicationapi\\applicationapi\\validators\\usuariovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\validators\\usuariovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|c:\\users\\u.carbajo\\vscode\\proyectos\\02_miapi\\applicationapi\\applicationapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|c:\\users\\u.carbajo\\vscode\\proyectos\\02_miapi\\applicationapi\\applicationapi\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|c:\\users\\u.carbajo\\vscode\\proyectos\\02_miapi\\applicationapi\\applicationapi\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|c:\\users\\u.carbajo\\vscode\\proyectos\\02_miapi\\applicationapi\\applicationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|c:\\users\\u.carbajo\\vscode\\proyectos\\02_miapi\\applicationapi\\applicationapi\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|c:\\users\\u.carbajo\\vscode\\proyectos\\02_miapi\\applicationapi\\applicationapi\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB462FEA-4803-4819-BDB7-4B4A0978E7EF}|ApplicationAPI\\ApplicationAPI.csproj|solutionrelative:applicationapi\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 172,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Program.cs",
+              "RelativeToolTip": "ApplicationAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:43:11.644Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -36,7 +54,7 @@
               "RelativeDocumentMoniker": "ApplicationAPI\\Modelo\\Usuario.cs",
               "ToolTip": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Modelo\\Usuario.cs",
               "RelativeToolTip": "ApplicationAPI\\Modelo\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T09:42:11.272Z",
               "IsPinned": true,
@@ -44,47 +62,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UsuarioDTO.cs",
               "DocumentMoniker": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\DTO\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "ApplicationAPI\\DTO\\UsuarioDTO.cs",
               "ToolTip": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\DTO\\UsuarioDTO.cs",
               "RelativeToolTip": "ApplicationAPI\\DTO\\UsuarioDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T09:42:18.541Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductoesController.cs",
-              "DocumentMoniker": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Controllers\\ProductoesController.cs",
-              "RelativeDocumentMoniker": "ApplicationAPI\\Controllers\\ProductoesController.cs",
-              "ToolTip": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Controllers\\ProductoesController.cs",
-              "RelativeToolTip": "ApplicationAPI\\Controllers\\ProductoesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T09:46:11.959Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsuarioValidator.cs",
+              "DocumentMoniker": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Validators\\UsuarioValidator.cs",
+              "RelativeDocumentMoniker": "ApplicationAPI\\Validators\\UsuarioValidator.cs",
+              "ToolTip": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Validators\\UsuarioValidator.cs",
+              "RelativeToolTip": "ApplicationAPI\\Validators\\UsuarioValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:37:18.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "ApplicationAPI\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\u.carbajo\\VSCode\\Proyectos\\02_MiAPI\\ApplicationAPI\\ApplicationAPI\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "ApplicationAPI\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAwwEsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T09:43:55.388Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         },
@@ -95,6 +113,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

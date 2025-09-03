@@ -138,13 +138,13 @@
     "Parameters": [
       {
         "Name": "usuario",
-        "Type": "ApplicationAPI.Modelo.Usuario",
+        "Type": "ApplicationAPI.DTO.UsuarioDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "ApplicationAPI.Modelo.Usuario",
+        "Type": "ApplicationAPI.DTO.UsuarioDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -195,7 +195,7 @@
       },
       {
         "Name": "usuario",
-        "Type": "ApplicationAPI.Modelo.Usuario",
+        "Type": "ApplicationAPI.DTO.UsuarioDTO",
         "IsRequired": true
       }
     ],

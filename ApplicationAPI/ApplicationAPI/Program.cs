@@ -2,6 +2,8 @@ using ApplicationAPI.DAO;
 using ApplicationAPI.Modelo;
 using ApplicationAPI.Profiles;
 using Microsoft.EntityFrameworkCore;
+using FluentValidation;
+using ApplicationAPI.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +16,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<BaseDatosContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddAutoMapper(typeof(MapperProfile).Assembly);
+builder.Services.AddValidatorsFromAssemblyContaining<UsuarioValidator>();
 
 var app = builder.Build();
 
